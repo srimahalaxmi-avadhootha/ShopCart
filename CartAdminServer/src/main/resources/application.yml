@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: CartAdminServer
+server:
+  port: 1111
